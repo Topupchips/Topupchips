@@ -1,50 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0c4a6e,100:082f49&height=180&section=header&text=Topupchips&fontSize=64&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=Ansh%20%7C%20building%20in%20orbit&descAlignY=58&descSize=16" width="100%" alt="Topupchips header" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=7DD3FC&center=true&vCenter=true&width=520&height=36&lines=Software+developer+from+Fredericton;Exploring+AI+%7C+web+%7C+mobile;Commits+fuel+the+mission" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:166534,100:15803d&height=200&section=header&text=Ansh&fontSize=72&fontColor=ecfdf5&fontAlignY=35&desc=Topupchips%20%C2%B7%20developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </div>
 
-### Mission brief
+<br />
 
-Hey — I'm **Ansh**. I build products across web, mobile, and AI, currently at [Introhive](https://www.introhive.com/).
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=560&height=40&lines=Building+things+that+matter;AI+%C2%B7+Web+%C2%B7+Mobile;Based+in+Fredericton%2C+Canada" alt="typing" />
+</div>
 
-- Working on: AI-assisted apps, TypeScript products, and side experiments
-- Based in: Fredericton, Canada
-- Always open to: cool collabs and interesting problems
+<br />
 
-### Telemetry
+## About me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Topupchips&show_icons=true&theme=radical&bg_color=020617&title_color=7DD3FC&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topupchips&layout=compact&theme=radical&bg_color=020617&title_color=7DD3FC&text_color=E2E8F0&hide_border=true&langs_count=6" height="160" alt="Top languages" />
-</p>
+Hey, I'm **Ansh** (`Topupchips`). I'm a software developer at [Introhive](https://www.introhive.com/), working across web, mobile, and AI.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Topupchips&theme=dark&background=020617&border=020617&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
-</p>
+I like shipping clean products, learning new stacks, and collaborating on ideas that are actually useful.
 
-### Featured systems
+---
 
-| Project | Stack | Orbit |
-| --- | --- | --- |
-| [nebula-canvas-builder](https://github.com/Topupchips/nebula-canvas-builder) | TypeScript | Canvas / creative tooling |
-| [Harvest-AI](https://github.com/Topupchips/Harvest-AI) | TypeScript | AI product experiment |
-| [Kitchen-Cop](https://github.com/Topupchips/Kitchen-Cop) | Python | Practical automation |
-| [Social-School](https://github.com/Topupchips/Social-School) | TypeScript | Social / education app |
-| [PORTFOLIO](https://github.com/Topupchips/PORTFOLIO) | TypeScript | Personal site |
+## GitHub stats
 
-### Contribution constellation
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Topupchips&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=4ADE80&text_color=D1D5DB&ring_color=16A34A" alt="stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topupchips&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=D1D5DB&langs_count=6" alt="languages" />
+      </td>
+    </tr>
+  </table>
 
-Snake animation of my commit graph — refreshes daily.
+  <img src="https://streak-stats.demolab.com/?user=Topupchips&theme=vue&hide_border=true&background=0D1117&ring=22C55E&fire=4ADE80&currStreakNum=86EFAC&sideNums=86EFAC&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=6B7280" alt="streak" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Topupchips/Topupchips/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/gpvc/?username=Topupchips&style=flat-square&color=0c4a6e&label=profile+views" alt="Profile views" />
-</p>
+## Tech I work with
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:082f49,50:0c4a6e,100:020617&height=100&section=footer" width="100%" alt="footer wave" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</div>
+
+---
+
+## Featured projects
+
+<div align="center">
+
+| Project | What it is |
+| :---: | :---: |
+| **[Harvest-AI](https://github.com/Topupchips/Harvest-AI)** | AI product experiment |
+| **[nebula-canvas-builder](https://github.com/Topupchips/nebula-canvas-builder)** | Creative canvas tooling |
+| **[Kitchen-Cop](https://github.com/Topupchips/Kitchen-Cop)** | Practical Python automation |
+| **[Social-School](https://github.com/Topupchips/Social-School)** | Social / education app |
+| **[PORTFOLIO](https://github.com/Topupchips/PORTFOLIO)** | Personal portfolio site |
+
+</div>
+
+---
+
+## Contribution snake
+
+A little snake that eats my commits. Updates every day.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Topupchips/Topupchips/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/gpvc/?username=Topupchips&style=flat-square&color=166534&label=profile+views" alt="views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,50:166534,100:052e16&height=120&section=footer" width="100%" alt="footer" />
+</div>
