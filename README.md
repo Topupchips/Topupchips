@@ -29,7 +29,7 @@ I like shipping clean products, learning new stacks, and collaborating on ideas 
 | **Styling** | <img src="https://skillicons.dev/icons?i=tailwind,materialui,css" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=express,nodejs" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb" /> |
-| **Full Stack Libraries** | <img src="https://skillicons.dev/icons?i=socketio" /> |
+| **Full Stack Libraries** | <img src="https://skillicons.dev/icons?i=socketio,graphql,prisma,redux,apollo,nestjs,fastapi,django,redis,vite" /> |
 | **Cloud / DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" /> |
 | **Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" /> |
 | **Mobile Development** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" /> |
