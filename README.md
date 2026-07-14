@@ -18,17 +18,6 @@ I like shipping clean products, learning new stacks, and collaborating on ideas 
 
 ---
 
-## GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Topupchips&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=4ADE80&text_color=D1D5DB" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Topupchips&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=D1D5DB&langs_count=6" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Topupchips&theme=vue&hide_border=true&background=0D1117&ring=22C55E&fire=4ADE80&currStreakNum=86EFAC&sideNums=86EFAC&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak" />
-</div>
-
----
-
 ## Skills
 
 <div align="center">
