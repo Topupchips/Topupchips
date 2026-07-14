@@ -21,18 +21,10 @@ I like shipping clean products, learning new stacks, and collaborating on ideas 
 ## GitHub stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Topupchips&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=4ADE80&text_color=D1D5DB&ring_color=16A34A" alt="stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topupchips&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=D1D5DB&langs_count=6" alt="languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://streak-stats.demolab.com/?user=Topupchips&theme=vue&hide_border=true&background=0D1117&ring=22C55E&fire=4ADE80&currStreakNum=86EFAC&sideNums=86EFAC&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=6B7280" alt="streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Topupchips&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=4ADE80&text_color=D1D5DB" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Topupchips&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=D1D5DB&langs_count=6" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Topupchips&theme=vue&hide_border=true&background=0D1117&ring=22C55E&fire=4ADE80&currStreakNum=86EFAC&sideNums=86EFAC&currStreakLabel=22C55E&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak" />
 </div>
 
 ---
@@ -77,7 +69,7 @@ A little snake that eats my commits. Updates every day.
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/gpvc/?username=Topupchips&style=flat-square&color=166534&label=profile+views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Topupchips&style=flat-square&color=166534&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
