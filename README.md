@@ -66,12 +66,6 @@ A little snake that eats my commits. Updates every day.
   <img src="https://raw.githubusercontent.com/Topupchips/Topupchips/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Topupchips&style=flat-square&color=166534&label=Profile+Views" alt="Profile views" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,50:166534,100:052e16&height=120&section=footer" width="100%" alt="footer" />
 </div>
